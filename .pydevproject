@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/DGLPyTorch/DrugDiscovery/SE3Transformer/se3_transformer</path>
+        <path>/${PROJECT_DIR_NAME}/DGLPyTorch/DrugDiscovery/SE3Transformer/tests</path>
+        <path>/${PROJECT_DIR_NAME}/MxNet/Classification/RN50v1.5/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/PaddlePaddle/Classification/RN50v1.5/models</path>
+        <path>/${PROJECT_DIR_NAME}/PaddlePaddle/Classification/RN50v1.5/utils</path>
+        <path>/${PROJECT_DIR_NAME}/PaddlePaddle/Classification/RN50v1.5</path>
+        <path>/${PROJECT_DIR_NAME}/MxNet/Classification/RN50v1.5</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Classification/ConvNets</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Classification/GPUNet/triton</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Classification/GPUNet/models</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Classification/GPUNet/configs/batch1</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Detection/Efficientdet</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Detection/SSD/ssd</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Forecasting/TFT</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/LanguageModeling/BART/utils</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/LanguageModeling/BART/bart</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/LanguageModeling/BERT</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/LanguageModeling/Transformer-XL</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Recommendation/DLRM/dlrm</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Recommendation/DLRM/preproc</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Recommendation/DLRM/triton</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Recommendation/NCF</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/SpeechRecognition/Jasper/triton</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/SpeechRecognition/Jasper</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/SpeechRecognition/QuartzNet</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/SpeechSynthesis</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Translation/GNMT/seq2seq</path>
+        <path>/${PROJECT_DIR_NAME}/PyTorch/Translation/Transformer</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Classification/ConvNets/config</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Classification/ConvNets/dataloader</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Classification/ConvNets/model</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Classification/ConvNets/runtime</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Classification/ConvNets/utils</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/dataset</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/efficientnet</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/model</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/object_detection</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/utils</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Detection/Efficientdet/visualize</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/LanguageModeling/BERT</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/LanguageModeling/ELECTRA</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/DLRM</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/SIM/preprocessing</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/SIM/sim</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/WideAndDeep/data</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/WideAndDeep/trainer</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Recommendation/WideAndDeep/triton</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Segmentation/MaskRCNN/mrcnn_tf2</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Segmentation/MaskRCNN/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Segmentation/nnUNet</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Segmentation/UNet_Medical/model</path>
+        <path>/${PROJECT_DIR_NAME}/TensorFlow2/Segmentation/UNet_Medical/runtime</path>
+        <path>/${PROJECT_DIR_NAME}/Tools/lddl/lddl</path>
+        <path>/${PROJECT_DIR_NAME}/Tools/lddl/benchmarks</path>
+        <path>/${PROJECT_DIR_NAME}/Tools/PyTorch/TimeSeriesPredictionPlatform</path>
+        <path>/${PROJECT_DIR_NAME}/CUDA-Optimized/FastSpeech/fastspeech</path>
+        <path>/${PROJECT_DIR_NAME}/CUDA-Optimized/FastSpeech/tacotron2</path>
+        <path>/${PROJECT_DIR_NAME}/CUDA-Optimized/FastSpeech/waveglow</path>
+    </pydev_pathproperty>
+</pydev_project>
